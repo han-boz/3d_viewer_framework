@@ -1,0 +1,15 @@
+airplane
+bench
+bookshelf
+bottle
+car
+chair
+glass_box
+lamp
+monitor
+person
+plant
+sofa
+vase
+cup
+piano

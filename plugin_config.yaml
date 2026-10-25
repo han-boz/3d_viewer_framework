@@ -1,0 +1,13 @@
+﻿# 启用的插件列表，注释/删除对应项即可关闭功能
+active_plugins:
+  #- texture_mapping   # 纹理贴图插件
+  #- light_control     # 光照材质调节插件
+  #- view_toolbar       # 顶部工具栏插件
+  #- color_control      # 实验1：3D模型颜色与材质填充插件
+  #- texture_mipmap      # 实验2 进阶：纹理滤波与 Mipmap 插件
+  #- environment_mapping # 实验2 进阶：环境映射插件
+  #- exp3_lighting       # 实验3 任务2：多模型光照与材质（12 预设）
+  - exp3_material       # 实验3 进阶：真实材质（金属/木质/陶瓷…）
+  - exp4_raytrace        # 实验4 进阶：光线追踪预览
+  - exp4_bump            # 实验4 进阶：凹凸映射
+
